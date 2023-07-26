@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zTestConsoleApp", "zTestCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Method-Optional-Argument", "CSA-Method-Optional-Argument\CSA-Method-Optional-Argument.csproj", "{77B5A954-0356-4E6A-BF32-0CBED37A81B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ArithmeticOperator", "CSA-ArithmeticOperator\CSA-ArithmeticOperator.csproj", "{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{77B5A954-0356-4E6A-BF32-0CBED37A81B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B5A954-0356-4E6A-BF32-0CBED37A81B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B5A954-0356-4E6A-BF32-0CBED37A81B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
