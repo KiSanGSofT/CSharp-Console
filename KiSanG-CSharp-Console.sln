@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Method-Optional-Argumen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ArithmeticOperator", "CSA-ArithmeticOperator\CSA-ArithmeticOperator.csproj", "{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Arrays", "CSA-Arrays\CSA-Arrays.csproj", "{D5635C02-9520-4229-B8AA-75178B371391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE8CC4E-CE71-4AE3-85FB-E73CF6B57621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5635C02-9520-4229-B8AA-75178B371391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5635C02-9520-4229-B8AA-75178B371391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5635C02-9520-4229-B8AA-75178B371391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5635C02-9520-4229-B8AA-75178B371391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
