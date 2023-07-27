@@ -53,7 +53,7 @@ namespace CSA_ArraysReadWrite
             arrayObject[4] = "UWP";
             Console.WriteLine("array[4] : " + arrayObject[4]);
 
-            /*
+            /**
             Console.WriteLine("\r");
 
             /* * 배열 재설정 * /
