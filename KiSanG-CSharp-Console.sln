@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ArithmeticOperator", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Arrays", "CSA-Arrays\CSA-Arrays.csproj", "{D5635C02-9520-4229-B8AA-75178B371391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ArraysReadWrite", "CSA-ArraysReadWrite\CSA-ArraysReadWrite.csproj", "{B6C229F1-3EF7-46B9-B866-6E07AABEA159}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D5635C02-9520-4229-B8AA-75178B371391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5635C02-9520-4229-B8AA-75178B371391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5635C02-9520-4229-B8AA-75178B371391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
