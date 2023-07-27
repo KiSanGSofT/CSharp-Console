@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Arrays", "CSA-Arrays\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ArraysReadWrite", "CSA-ArraysReadWrite\CSA-ArraysReadWrite.csproj", "{B6C229F1-3EF7-46B9-B866-6E07AABEA159}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-MacroBasic", "CSA-MacroBasic\CSA-MacroBasic.csproj", "{0F169058-519E-40D4-8054-5753024255B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C229F1-3EF7-46B9-B866-6E07AABEA159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F169058-519E-40D4-8054-5753024255B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F169058-519E-40D4-8054-5753024255B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F169058-519E-40D4-8054-5753024255B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F169058-519E-40D4-8054-5753024255B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
