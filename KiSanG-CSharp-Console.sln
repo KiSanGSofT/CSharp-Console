@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-MacroBasic", "CSA-Macro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Process-Memory-Usage", "CSA-Process-Memory-Usage\CSA-Process-Memory-Usage.csproj", "{34DB3D88-59ED-41E0-A10B-BB8E7EEC319C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Do-While-Loop", "CSA-Do-While-Loop\CSA-Do-While-Loop.csproj", "{ABE44064-A4FE-42D6-8074-5D8D164C7DA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{34DB3D88-59ED-41E0-A10B-BB8E7EEC319C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34DB3D88-59ED-41E0-A10B-BB8E7EEC319C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34DB3D88-59ED-41E0-A10B-BB8E7EEC319C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE44064-A4FE-42D6-8074-5D8D164C7DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE44064-A4FE-42D6-8074-5D8D164C7DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE44064-A4FE-42D6-8074-5D8D164C7DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE44064-A4FE-42D6-8074-5D8D164C7DA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
