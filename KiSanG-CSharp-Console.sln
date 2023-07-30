@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Do-While-Loop", "CSA-Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Logical-Operator", "CSA-Logical-Operator\CSA-Logical-Operator.csproj", "{6E3D31F3-B245-403B-B9CF-56E772CBF915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-String-Interpolation-Vebatim", "CSA-String-Interpolation-Vebatim\CSA-String-Interpolation-Vebatim.csproj", "{C11D7D70-74F7-414A-BE6F-18969C1C6106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6E3D31F3-B245-403B-B9CF-56E772CBF915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3D31F3-B245-403B-B9CF-56E772CBF915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E3D31F3-B245-403B-B9CF-56E772CBF915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11D7D70-74F7-414A-BE6F-18969C1C6106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11D7D70-74F7-414A-BE6F-18969C1C6106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11D7D70-74F7-414A-BE6F-18969C1C6106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11D7D70-74F7-414A-BE6F-18969C1C6106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
