@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-String-Interpolation-Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-MethodCall", "CSA-MethodCall\CSA-MethodCall.csproj", "{E5DB26B4-4006-458A-873A-AAAD53F0F491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ConsoleWriteLine", "CSA-ConsoleWriteLine\CSA-ConsoleWriteLine.csproj", "{2E99E5E4-AD10-4F06-94C4-45E806CFF464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E5DB26B4-4006-458A-873A-AAAD53F0F491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5DB26B4-4006-458A-873A-AAAD53F0F491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5DB26B4-4006-458A-873A-AAAD53F0F491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E99E5E4-AD10-4F06-94C4-45E806CFF464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E99E5E4-AD10-4F06-94C4-45E806CFF464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E99E5E4-AD10-4F06-94C4-45E806CFF464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E99E5E4-AD10-4F06-94C4-45E806CFF464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
