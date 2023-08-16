@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-TernaryOperator", "CSA-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-StringBuilder", "CSA-StringBuilder\CSA-StringBuilder.csproj", "{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-SwitchCaseDefaultCondition", "CSA-SwitchCaseDefaultCondition\CSA-SwitchCaseDefaultCondition.csproj", "{D1EB19FA-3649-458D-B644-5C6367C0CD30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
