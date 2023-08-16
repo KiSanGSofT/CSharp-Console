@@ -19,7 +19,7 @@ namespace CSA_ConsoleWrite
 
             Console.Write("안녕");
             Console.Write("Hello");
-            Console.Write("あんねい");
+            Console.Write("あんねい"); 
 
             //----------
 
