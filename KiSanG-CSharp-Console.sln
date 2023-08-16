@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-StringBuilder", "CSA-St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-SwitchCaseDefaultCondition", "CSA-SwitchCaseDefaultCondition\CSA-SwitchCaseDefaultCondition.csproj", "{D1EB19FA-3649-458D-B644-5C6367C0CD30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ThreadMulti", "CSA-ThreadMulti\CSA-ThreadMulti.csproj", "{245CE1CD-8433-459C-8D4B-37C649C00078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1EB19FA-3649-458D-B644-5C6367C0CD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245CE1CD-8433-459C-8D4B-37C649C00078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245CE1CD-8433-459C-8D4B-37C649C00078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245CE1CD-8433-459C-8D4B-37C649C00078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245CE1CD-8433-459C-8D4B-37C649C00078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
