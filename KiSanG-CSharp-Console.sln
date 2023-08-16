@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-TaskRun", "CSA-TaskRun\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-TernaryOperator", "CSA-TernaryOperator\CSA-TernaryOperator.csproj", "{17426069-0D5F-4206-BC38-021FE4146376}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-StringBuilder", "CSA-StringBuilder\CSA-StringBuilder.csproj", "{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{17426069-0D5F-4206-BC38-021FE4146376}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17426069-0D5F-4206-BC38-021FE4146376}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17426069-0D5F-4206-BC38-021FE4146376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E721BCB-9D7D-453A-B2D7-328D4FF5289C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
