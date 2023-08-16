@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-ConsoleWrite", "CSA-Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-TaskRun", "CSA-TaskRun\CSA-TaskRun.csproj", "{992769A8-7B35-4D7D-BB43-6505C9805024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-TernaryOperator", "CSA-TernaryOperator\CSA-TernaryOperator.csproj", "{17426069-0D5F-4206-BC38-021FE4146376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{992769A8-7B35-4D7D-BB43-6505C9805024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{992769A8-7B35-4D7D-BB43-6505C9805024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{992769A8-7B35-4D7D-BB43-6505C9805024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17426069-0D5F-4206-BC38-021FE4146376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17426069-0D5F-4206-BC38-021FE4146376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17426069-0D5F-4206-BC38-021FE4146376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17426069-0D5F-4206-BC38-021FE4146376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
