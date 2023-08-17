@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-Variable_var", "CSA-Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-VerbatimLiteralString", "CSA-VerbatimLiteralString\CSA-VerbatimLiteralString.csproj", "{8423B26A-70E7-4EE1-BE17-4D7D5F50144E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSA-AssginmentOperator", "CSA-AssginmentOperator\CSA-AssginmentOperator.csproj", "{63B4C47D-3479-4F08-900A-901BD789777C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{8423B26A-70E7-4EE1-BE17-4D7D5F50144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8423B26A-70E7-4EE1-BE17-4D7D5F50144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8423B26A-70E7-4EE1-BE17-4D7D5F50144E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B4C47D-3479-4F08-900A-901BD789777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B4C47D-3479-4F08-900A-901BD789777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B4C47D-3479-4F08-900A-901BD789777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B4C47D-3479-4F08-900A-901BD789777C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
